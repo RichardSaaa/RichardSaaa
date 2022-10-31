@@ -1,7 +1,7 @@
 ### Oláá! Sou o Richard Alves
 
-- 🔭 Hoje trabalho como Auxiliar de T.I ...
-- 🌱 Atualmente estudo Desenvolvimento Web Java no Instituto Proa e Defesa Cibernética - Ethical Hacking, Forensics & Secure DevOps
+- 🛸 Hoje trabalho como Auxiliar de T.I ...
+- 🚀 Atualmente estudo Desenvolvimento Web Java no Instituto Proa e Defesa Cibernética - Ethical Hacking, Forensics & Secure DevOps
 
 <div align="center">
   <a href="https://github.com/RichardSaaa">
