@@ -1,4 +1,4 @@
-### Olaá! Sou o Richard Alves
+### Oláá! Sou o Richard Alves
 
 - 🔭 Hoje trabalho como Auxiliar de T.I ...
 - 🌱 Atualmente estudo Desenvolvimento Web Java no Instituto Proa e Defesa Cibernética - Ethical Hacking, Forensics & Secure DevOps
