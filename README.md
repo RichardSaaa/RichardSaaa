@@ -1,7 +1,7 @@
 ### Oláá! Sou o Richard Alves
 
 - 🚀 Estudei Desenvolvimento Web Java no Instituto Proa e estudo Defesa Cibernética - Ethical Hacking, Forensics & Secure DevOps na Faculdade FIAP
-- 🛸 Já trabalhei na área de Tecnologia como assistente de T.I durante 1 ano e atualmente estou desempregado!.
+- 🛸 Já trabalhei na área de Tecnologia como assistente de T.I durante 1 ano e atualmente estou trabalhando como Jovem Aprendiz em Infraestrutura na I4PRO!.
 
 <div align="center">
   <a href="https://github.com/RichardSaaa">
